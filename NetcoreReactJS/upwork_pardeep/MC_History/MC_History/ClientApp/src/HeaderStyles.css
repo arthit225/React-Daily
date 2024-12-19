@@ -1,0 +1,199 @@
+
+
+.ContentText { font-family: Arial; font-size: 8pt; color: #000080; font-weight: bold }
+.SectionContentRow { background-color: #FFFFFF; padding: 6 }
+.SectionHeaderText { font-family: Arial; font-size: 10pt; color: #000080; font-weight: bold }
+.SectionTable { border: 2 solid #E9E9E9; padding: 0 }
+.SectionHeaderRow { background-color: #E9E9E9; border-style: solid; border-width: 0 }
+.ContentLink { font-family: Arial; font-size: 8pt; color: #000080; font-weight: bold; text-decoration:none }
+
+TABLE.Header
+{
+    BORDER-RIGHT: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-LEFT: 0px;
+    Z-INDEX: -100;
+    FLOAT: none;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    WIDTH: 100%;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: 0px;
+    POSITION: static;
+    BACKGROUND-COLOR: #3420ac
+}
+TABLE.PageBodySection
+{
+    BORDER-RIGHT: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-LEFT: 0px;
+    Z-INDEX: 1;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    WIDTH: 100%;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: 0px;
+    POSITION: static;
+    TOP: 110px;
+    HEIGHT: 81%;
+    BACKGROUND-COLOR: #3420ac
+}
+TABLE.Footer
+{
+    BORDER-RIGHT: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-LEFT: 0px;
+    Z-INDEX: -100;
+    FLOAT: none;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    WIDTH: 100%;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: 0px;
+    POSITION: static;
+    BACKGROUND-COLOR: #3420ac
+}
+TD.LSideBar
+{
+    BORDER-RIGHT: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-LEFT: 0px;
+    Z-INDEX: 1;
+    LEFT: 0px;
+    FLOAT: left;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    WIDTH: 15px;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: 0px;
+    POSITION: static;
+    TOP: 110px;
+    HEIGHT: 100%;
+    BACKGROUND-COLOR: #3420ac
+}
+TD.RSideBar
+{
+    BORDER-RIGHT: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-LEFT: 0px;
+    Z-INDEX: 1;
+    FLOAT: none;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    WIDTH: 15px;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: 0px;
+    POSITION: static;
+    TOP: 110px;
+    HEIGHT: 100%;
+    BACKGROUND-COLOR: #3420ac
+}
+TD.PageBodySection
+{
+    BORDER-RIGHT: lightgrey 3px inset;
+    PADDING-RIGHT: 7px;
+    BORDER-TOP: white 3px inset;
+    PADDING-LEFT: 7px;
+    Z-INDEX: 1;
+    LEFT: 15px;
+    PADDING-BOTTOM: 7px;
+    MARGIN: 0px;
+    BORDER-LEFT: white 3px inset;
+    WIDTH: 100%;
+    PADDING-TOP: 7px;
+    BORDER-BOTTOM: lightgrey 3px inset;
+    POSITION: static;
+    TOP: 110px;
+    HEIGHT: 100%;
+    BACKGROUND-COLOR: white
+}
+TD.Navigation
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    Z-INDEX: 1;
+    LEFT: 250px;
+    FLOAT: none;
+    TEXT-TRANSFORM: none;
+    WIDTH: 1024px;
+    COLOR: white;
+    FONT-FAMILY: 'Futura Lt BT', 'Arial Narrow';
+    POSITION: absolute;
+    TOP: 70px;
+    BACKGROUND-COLOR: transparent;
+    FONT-VARIANT: normal
+}
+TD.NavigationSml
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    Z-INDEX: 1;
+    LEFT: 250px;
+    FLOAT: none;
+    TEXT-TRANSFORM: none;
+    WIDTH: 1024px;
+    COLOR: white;
+    FONT-FAMILY: 'Futura Lt BT', 'Arial Narrow';
+    POSITION: absolute;
+    TOP: 20px;
+    BACKGROUND-COLOR: transparent;
+    FONT-VARIANT: normal
+}
+TD.NavigationNoSwash
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    Z-INDEX: 1;
+    LEFT: 250px;
+    FLOAT: none;
+    TEXT-TRANSFORM: none;
+    WIDTH: 1024px;
+    COLOR: white;
+    FONT-FAMILY: 'Futura Lt BT', 'Arial Narrow';
+    POSITION: absolute;
+    TOP: 20px;
+    BACKGROUND-COLOR: transparent;
+    FONT-VARIANT: normal
+}
+BODY.BodySetting
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    Z-INDEX: 1;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    POSITION: static;
+    BACKGROUND-COLOR: #3420ac
+}
+A.HdrNav
+{
+    COLOR: white
+}
+A:hover
+{
+    COLOR: #6699ff
+}
+.peq
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
+.peqB
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
